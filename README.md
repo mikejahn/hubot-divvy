@@ -15,3 +15,5 @@ Hubot plugin to use the Divvy API
 
 You should see a list of up to 5 bikes.
 
+![screen shot 2013-10-30 at 11 56 23 am](https://f.cloud.github.com/assets/389926/1438957/44fadb1c-4184-11e3-8458-9f2eec3f9ea5.png)
+
