@@ -12,3 +12,6 @@ Hubot plugin to use the Divvy API
 
 ###Example usage
 ```hubot find me divvy bikes near  130 E. Randolph St. Chicago, Illinois```
+
+You should see a list of up to 5 bikes.
+
