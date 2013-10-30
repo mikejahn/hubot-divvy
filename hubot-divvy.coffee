@@ -6,7 +6,6 @@
 
 nDivvy = require "ndivvy" 
 geocoder = require "geocoder" 
-Util = require "util"
 
 module.exports = (robot) ->
   robot.respond /find me divvy bikes near (.*)/i, (msg) ->
