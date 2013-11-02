@@ -11,7 +11,9 @@ Hubot plugin to use the Divvy API
     "geocoder": "0.1.0"``` should work just fine
 
 ###Example usage
-```hubot find me divvy bikes near  130 E. Randolph St. Chicago, Illinois```
+```
+hubot find me divvy bikes near  130 E. Randolph St. Chicago, Illinois
+```
 
 You should see a list of up to 5 bikes.
 
