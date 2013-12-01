@@ -7,7 +7,7 @@ Hubot plugin to use the Divvy API
 
 * include the coffee file in your hubot's ```scripts``` directory
 * include nDivvy and geocoder in your hubot's ```package.json```
-  * ```"ndivvy": "0.0.9",
+  * ```"ndivvy": "0.1.2",
     "geocoder": "0.1.0"``` should work just fine
 
 ###Example usage
